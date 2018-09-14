@@ -1,0 +1,30 @@
+1G Request:
+
+<HotelCreateReservationReq  TraceId="f8937825-b9bb-4173-9b37-0029aeb3f75c" AuthorizedBy="Travelport" TargetBranch="P7004139" ProviderCode="1G" UserAcceptance="true">
+  <BillingPointOfSaleInfo OriginApplication="uAPI" />
+  <BookingTraveler Key="ck9KazEySnlraUxlRFVnaQ==" TravelerType="ADT" Age="40" DOB="1978-03-03" Gender="M" Nationality="US">
+    <BookingTravelerName Prefix="Mr" First="John" Last="Smith" />
+    <PhoneNumber Location="DEN" CountryCode="1" AreaCode="303" Number="123456789" />
+    <Email EmailID="johnsmith@travelportuniversalapidemo.com" />
+    <Address>
+      <AddressName>DemoSiteAddress</AddressName>
+      <Street>Via Augusta 59 5</Street>
+      <City>Madrid</City>
+      <State>IA</State>
+      <PostalCode>50156</PostalCode>
+      <Country>US</Country>
+    </Address>
+  </BookingTraveler>
+  <HotelRateDetail RatePlanType="OSN013A" />
+  <HotelProperty HotelCode="05041" HotelChain="HI" />
+  <HotelStay >
+    <CheckinDate>2018-03-02</CheckinDate>
+    <CheckoutDate>2018-03-30</CheckoutDate>
+  </HotelStay>
+  <Guarantee Type="Deposit">
+    <CreditCard Type="VI" Number="4444333322221111" ExpDate="2017-11" CVV="345" />
+  </Guarantee>
+</HotelCreateReservationReq>
+
+TRM Request:
+

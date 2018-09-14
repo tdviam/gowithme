@@ -1,0 +1,7 @@
+syncing start: 07:59:38
+batch insert: 10000
+batch insert: 10000
+batch insert: 10000
+batch insert: 10000
+batch insert: 6695
+syncing end: 08:00:29

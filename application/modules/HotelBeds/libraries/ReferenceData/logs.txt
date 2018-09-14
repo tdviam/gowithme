@@ -1,0 +1,156 @@
+hotels?fields=all&language=ENG&from=172001&to=173000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=173001&to=174000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=174001&to=175000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=175001&to=176000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=176001&to=177000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=177001&to=178000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=178001&to=179000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=179001&to=180000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=180001&to=181000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=181001&to=182000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=182001&to=183000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=183001&to=184000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=184001&to=185000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=185001&to=186000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=186001&to=187000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=187001&to=188000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=188001&to=189000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=189001&to=190000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=190001&to=191000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=191001&to=192000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=192001&to=193000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=193001&to=194000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=194001&to=195000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=195001&to=196000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=196001&to=197000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=197001&to=198000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=198001&to=199000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=199001&to=200000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=200001&to=201000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=201001&to=202000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=202001&to=203000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=203001&to=204000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=204001&to=205000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=205001&to=206000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=206001&to=207000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=207001&to=208000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=208001&to=209000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=209001&to=210000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=210001&to=211000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=211001&to=212000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=212001&to=213000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=213001&to=214000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=214001&to=215000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=215001&to=216000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=216001&to=217000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=217001&to=218000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=218001&to=219000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=219001&to=220000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=220001&to=221000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=221001&to=222000&useSecondaryLanguage=0
+Status: success
+Data Saved: 
+hotels?fields=all&language=ENG&from=222001&to=223000&useSecondaryLanguage=0
+Status: fail
+Fail: {"status":"fail","data":null,"error":{"code":"Unexpected HTTP code: ","0":403,"message":{"url":"https:\/\/api.test.hotelbeds.com\/hotel-content-api\/1.0\/hotels?fields=all&language=ENG&from=222001&to=223000&useSecondaryLanguage=0","content_type":"text\/xml","http_code":403,"header_size":511,"request_size":282,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":1.234,"namelookup_time":0.015,"connect_time":0.281,"pretransfer_time":0.937,"size_upload":0,"size_download":28,"speed_download":22,"speed_upload":0,"download_content_length":28,"upload_content_length":-1,"starttransfer_time":1.234,"redirect_time":0,"redirect_url":"","primary_ip":"54.246.98.174","certinfo":[],"primary_port":443,"local_ip":"192.168.10.5","local_port":56796}}}
+hotels?fields=all&language=ENG&from=172001&to=173000&useSecondaryLanguage=0
+Status: fail
+Fail: {"status":"fail","data":null,"error":{"code":"Unexpected HTTP code: ","0":403,"message":{"url":"https:\/\/api.test.hotelbeds.com\/hotel-content-api\/1.0\/hotels?fields=all&language=ENG&from=172001&to=173000&useSecondaryLanguage=0","content_type":"text\/xml","http_code":403,"header_size":511,"request_size":282,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":1.25,"namelookup_time":0.015,"connect_time":0.296,"pretransfer_time":0.968,"size_upload":0,"size_download":28,"speed_download":22,"speed_upload":0,"download_content_length":28,"upload_content_length":-1,"starttransfer_time":1.25,"redirect_time":0,"redirect_url":"","primary_ip":"54.246.98.174","certinfo":[],"primary_port":443,"local_ip":"192.168.10.5","local_port":56809}}}
